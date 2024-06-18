@@ -92,7 +92,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 
-For any queries or issues, please contact [your-email@example.com](mailto:lahuandhale321@gmail.com).
+For any queries or issues, please contact [lahuandhale321@gmail.com](mailto:lahuandhale321@gmail.com).
 
 ---
 
